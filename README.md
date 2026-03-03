@@ -9,6 +9,6 @@
 
 
 ## C프로그래밍 및 실습 강의 자료
-| 주차 | 이론강의 | 실습강의  | 마감일 | 
+| 주차 | 강의노트 | 온라인 영상  | 마감일 | 
 |:--:|:--:|:--:|:--:|
-| 1 |   |    |   | 
+| 1 | [오리엔테이션](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/Orientation.pdf)  |  [1주차 1강](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301573) <br> [1주차 2강](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301574) |   | 
