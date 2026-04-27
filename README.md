@@ -56,8 +56,8 @@
 | 7-2 | [2강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(02%E1%84%80%E1%85%A1%E1%86%BC).pdf)  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301601) | 4월 14일(화) 23시 59분 | 6.6 | |
 | 7-3 | [실습 문제](https://github.com/sejongresearch/2026.C/blob/main/Practice/7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A9%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%80%E1%85%A9%E1%84%80%E1%85%B3%E1%86%B8%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6.pdf)| - | 4월 21일(화) 23시 59분 |  | |
 | 8주차 | 1차 중간고사 | *별도 수업 없음 | 4월 21일(화) 오후 7시 |  |  |
-| 9-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301604) | 4월 28일(화) 23시 59분 |  | |
-| 9-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301605) | 4월 28일(화) 23시 59분 | | |
+| 9-1 | [1강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(01%E1%84%80%E1%85%A1%E1%86%BC).pdf) | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301604) | 4월 28일(화) 23시 59분 |  | |
+| 9-2 | [2강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(02%E1%84%80%E1%85%A1%E1%86%BC).pdf)  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301605) | 4월 28일(화) 23시 59분 | | |
 | 9-3 | [실습 문제]() | - | 5월 05일(화) 23시 59분 |  | |
 
 
