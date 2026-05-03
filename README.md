@@ -59,6 +59,30 @@
 | 9-1 | [1강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(01%E1%84%80%E1%85%A1%E1%86%BC).pdf) | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301604) | 4월 28일(화) 23시 59분 | 7.1-7.2 | |
 | 9-2 | [2강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(02%E1%84%80%E1%85%A1%E1%86%BC).pdf)  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301605) | 4월 28일(화) 23시 59분 | 7.3 | |
 | 9-3 | [실습 문제](https://github.com/sejongresearch/2026.C/blob/main/Practice/9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-6%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6.pdf) | - | 5월 05일(화) 23시 59분 |  | |
+| 10-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301608) | 5월 5일(화) 23시 59분 |  | |
+| 10-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301609) | 5월 5일(화) 23시 59분 |  | |
+| 10-3 | [실습 문제]() | - | 5월 12일(화) 23시 59분 |  | |
+| **과제4 | [과제 문제]() | - | 5월 11일(월) 23시 59분 |  | |
+| **퀴즈4 | 과제 문제 | - | 5월 13일(수) 수업시간 |  | |
+| 11-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301612) | 5월 12일(화) 23시 59분 |  | |
+| 11-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301613) | 5월 12일(화) 23시 59분 |  | |
+| 11-3 | [실습 문제]() | - | 5월 19일(화) 23시 59분 |  | |
+| **과제5 | [과제 문제]() | - | 5월 18일(월) 23시 59분 |  | |
+| 12주차 | 2차 중간고사 | *별도 수업 없음 | 5월 19일(화) 오후 7시 |  |  |
+| 12-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301616) | 5월 26일(화) 23시 59분 |  | |
+| 12-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301617) | 5월 26일(화) 23시 59분 |  | |
+| 13-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301620) | 5월 26일(화) 23시 59분 |  | |
+| 13-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301621) | 5월 26일(화) 23시 59분 |  | |
+| 13-3 | [실습 문제]() | - | 6월 2일(화) 23시 59분 |  | |
+| 14-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301624) | 6월 2일(화) 23시 59분 | 포인터 | |
+| 14-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301625) | 6월 2일(화) 23시 59분 |  | |
+| 14-3 | [실습 문제]() | - | 6월 9일(화) 23시 59분 |  | |
+| 15-1 | [1강]() | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301628) | 6월 9일(화) 23시 59분 | 포인터 | |
+| 15-2 | [2강]()  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301629) | 6월 9일(화) 23시 59분 |  | |
+| 16주차 | 기말고사 | 전 범위, 실습시험 | 6월 17일 수업시간 |  |  |
+
+
+
 
 
 
