@@ -81,6 +81,7 @@
 | 14-3 | [실습 문제](https://github.com/sejongresearch/2026.C/blob/main/Practice/14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%91%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6.pdf) | - | 6월 9일(화) 23시 59분 |  | |
 | 15-1 | [1강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(01%E1%84%80%E1%85%A1%E1%86%BC).pdf) | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301628) | 6월 9일(화) 23시 59분 | 포인터 | |
 | 15-2 | [2강](https://github.com/sejongresearch/2026.C/blob/main/LectueNote/C%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8_15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(02%E1%84%80%E1%85%A1%E1%86%BC).pdf)  | [영상](https://ecampus.sejong.ac.kr/mod/vod/viewer.php?id=301629) | 6월 9일(화) 23시 59분 |  | |
+| **퀴즈5 | 13, 14실습 퀴즈 |   | 6월 10일 수업시간|  |  |
 | 16주차 | 기말고사 | 전 범위, 실습시험 | 6월 17일 수업시간 |  |  |
 
 
